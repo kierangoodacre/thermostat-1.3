@@ -1,0 +1,24 @@
+{
+  "name": "thermostat-1.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kierangoodacre/thermostat-1.3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kierangoodacre/thermostat-1.3/issues"
+  },
+  "homepage": "https://github.com/kierangoodacre/thermostat-1.3",
+  "dependencies": {
+    "express": "^4.12.3",
+    "nodemon": "^1.3.7"
+  }
+}
